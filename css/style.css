@@ -1,0 +1,41 @@
+#bod{
+	width: 900px;
+	border-style: solid;
+	margin: 20px auto;
+}
+#eve{
+	float: left;
+	display: inline;
+	width: 500px;
+	margin: 10px 20px;
+	color: white;
+}
+.events{
+
+	float: left;
+	display: inline;
+	border-style: dotted;
+	width: 200px;
+	margin: 0px 20px;
+	color: white;
+}
+.even{
+	width: 200px;
+	border-style: solid;
+	/*display: inline;*/
+	margin: 10px 20px;
+	float:left;
+	color: black;
+	background-color: white;
+
+}
+h1{
+	text-align: center;
+}
+body{
+	background-color: black;
+	color: red;
+}
+img{
+	text-align: center;
+}
